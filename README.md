@@ -1,4 +1,6 @@
-# AIDungeon2
+# AIDWaifu 
+
+Early fork of AIDungeon 2. Plan is to replace all training set with Waifu material
 
 Read more about AIDungeon2 and how it was built [here](https://pcc.cs.byu.edu/2019/11/21/ai-dungeon-2-creating-infinitely-generated-text-adventures-with-deep-learning-language-models/).
 
