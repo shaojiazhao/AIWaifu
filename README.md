@@ -1,4 +1,4 @@
-# AIDWaifu 
+# AIWaifu 
 
 Early fork of AIDungeon 2. Plan is to replace all training set with Waifu material
 
